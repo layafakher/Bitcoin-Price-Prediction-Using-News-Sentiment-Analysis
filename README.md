@@ -1,4 +1,4 @@
-# Bitcoin_Price_Prediction_Using_News_Sentiment_Analysis
+# Bitcoin Price Prediction Using News Sentiment Analysis
 
 by
 Laya Fakher
